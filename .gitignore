@@ -1,0 +1,15 @@
+# Ignore environment files
+.env
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+# Ignore Docker build artifacts
+*.tar
+*.log
+
+# Ignore Terraform state and sensitive files
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
