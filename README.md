@@ -20,4 +20,5 @@ This project demonstrates how to query AWS Athena using Python, containerize the
 1. Clone the repository:
    ```bash
    git clone https://github.com/ajacque1/athena-project.git
+   git clone git@github.com:ajacque1/repo.git
    cd athena-project
